@@ -6,6 +6,10 @@ end_date: 2022-08-18
 preliminary_floor_plan_deadline: 2022-07-15
 digital_sign_submission_deadline: 2022-07-31
 incentive_rate_deadline: 2022-07-15
+event_coordinator:
+  name: Beto Silva
+  email: humberto.silva@austintexas.gov
+  phone: 5124044118
 utility_coordinator:
   name: Ben Hamilton
   email: ben.hamilton@austintexas.gov
